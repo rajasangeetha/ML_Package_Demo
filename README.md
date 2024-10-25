@@ -23,6 +23,7 @@ This project focuses on creating a package with logic for file reading, data pre
 ### How to Run
 1. Ensure all required libraries are installed.
 2. Load the dataset and run the main script
-3. Take package_creation notbook and create the packages and files
-4. Take the main NB create_machinelearning_package and execute the commands
+3. Take package_creation notbook and create the packages and files. This creates empty files
+4. Update the files with functions
+5. Take the main NB create_machinelearning_package and execute the commands
 
