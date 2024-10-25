@@ -25,4 +25,4 @@ This project focuses on creating a package with logic for file reading, data pre
 2. Load the dataset and run the main script
 3. Take package_creation notbook and create the packages and files. This creates empty files
 4. Update the files with functions
-5. Take the main NB exec_ml_models_using_packages, update the directory location and execute the commands
+5. Take the main NB exec_ml_models_using_packages, update the directory location (directory_path) and execute the commands
